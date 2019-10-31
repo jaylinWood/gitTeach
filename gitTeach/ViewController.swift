@@ -12,10 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        //Test 1
-        print("Helllo Jaylin")
-        // Test 2
-        print("hello r")
+        
     }
 
 
