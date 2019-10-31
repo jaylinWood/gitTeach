@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         //Jaylin is a poo poo head
         print("poo poo head")
+        // riley needs to use correct words
     }
 
 
