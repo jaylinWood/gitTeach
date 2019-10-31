@@ -12,7 +12,8 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+        //Jaylin is a poo poo head
+        print("poo poo head")
     }
 
 
