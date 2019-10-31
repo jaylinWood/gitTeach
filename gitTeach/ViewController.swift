@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         //Test 1
         print("Helllo Jaylin")
+        // Test 2
+        print("hello r")
     }
 
 
